@@ -1,0 +1,22 @@
+ano,pais,tipo_ingreso,porcentaje_Inflacion_anual,salario_minimo_diario,salario_minimo_mensual,porcentaje_variacion_aumento_salario_minimo_vs_ano_pasado,decretos_del_gobierno_nacional,porcentaje_tasa_de_desempleo,importaciones_miles_de_millones_US_dolares,promedio_infantes_nacidos_por_cada_mujer,poblacion_total
+2000,Colombia,Ingreso mediano alto,9.2,8670,260100,10,2647 de diciembre 23 de 1999 ,20,12.4,2.56,38.910.340
+2001,Colombia,Ingreso mediano alto,8,9533.33,286000,10,2579 de diciembre 13 de 2000 ,17,12.5,2.52,39.312.450
+2002,Colombia,Ingreso mediano alto,6.4,10300,309000,8,2910 de diciembre 31 de 2001 ,17.4,12.7,2.48,39.804.950
+2003,Colombia,Ingreso mediano alto,7.1,11066.67,332000,7.4,3232 de diciembre 27 de 2002 ,14.2,12.5,2.43,40.351.020
+2004,Colombia,Ingreso mediano alto,5.9,11933.33,358000,7.8,3770 de diciembre 26 de 2003 ,13.6,13.06,2.39,40.922.150
+2005,Colombia,Ingreso mediano alto,5.1,12716.67,381500,6.6,4360 de diciembre 22 de 2004 ,11.8,15.34,2.36,41.487.780
+2006,Colombia,Ingreso mediano alto,4.3,13600,408000,6.9,4686 de diciembre 21 de 2005 ,11.1,18,2.32,42.046.250
+2007,Colombia,Ingreso mediano alto,5.5,14456.67,433700,6.3,4580 de diciembre 27 de 2006 ,11.2,24.33,2.29,42.597.320
+2008,Colombia,Ingreso mediano alto,7,15383.33,461500,6.4,4965 de diciembre 27 de 2007 ,11.3,37.56,2.25,43.141.110
+2009,Colombia,Ingreso mediano alto,4.2,16563.33,496900,7.7,4868 de diciembre 30 de 2008 ,12,31.48,2.22,43.677.370
+2010,Colombia,Ingreso mediano alto,2.3,17166.67,515000,3.6,5053 de diciembre 30 de 2009 ,11.8,36.26,2.18,44.205.290
+2011,Colombia,Ingreso mediano alto,3.4,17853.33,535600,4,033 de enero 11 de 2011 ,10.8,54.7,2.15,44.725.540
+2012,Colombia,Ingreso mediano alto,3.2,18890,566700,5.8,4919 de diciembre 26 de 2011 ,10.4,53.77,2.12,45.239.080
+2013,Colombia,Ingreso mediano alto,2,19650,589500,4.02,2738 de diciembre 28 de 2012,9.7,53.5,2.1,45.745.780
+2014,Colombia,Ingreso mediano alto,2.9,20533.33,616000,4.5,3068 de diciembre 30 de 2013,9.1,55.6,2.07,46.245.300
+2015,Colombia,Ingreso mediano alto,5,21478.33,644350,4.6,2731 de diciembre 30 de 2014,8.9,56.05,2.04,46.736.730
+2016,Colombia,Ingreso mediano alto,7.5,22981.83,689455,7,2552 de diciembre 30 de 2015,9.2,44.89,2.02,47.220.860
+2017,Colombia,Ingreso mediano alto,4.3,24590.57,737717,7,2209 de diciembre 30 de 2016,9.3,44.95,2,47.698.520
+2018,Colombia,Ingreso mediano alto,3.2,26041.4,781242,5.9,2269 de diciembre 30 de 2017,10.5,44.67,1.98,48.169.000
+2019,Colombia,Ingreso mediano alto,3.5,27603.87,828116,6,2451 de diciembre 27 de 2018,10.5,43.22,1.96,48.631.460
+2020,Colombia,Ingreso mediano alto,2.5,29260.1,877803,6,2360 de diciembre 26 de 2019,15.9,44.24,1.94,49.084.840
