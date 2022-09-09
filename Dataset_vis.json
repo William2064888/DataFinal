@@ -1,0 +1,51 @@
+[
+{
+	"alumno":"William David Castaneda Buitrago",
+	"nota":9.00,
+	"ranking":10
+},
+{
+	"alumno":"Alison Cortes",
+	"nota":8.50,
+	"ranking":9},
+{
+	"alumno":"Emperatriz Castaneda",
+	"nota":8.30,
+	"ranking":8
+},
+{
+	"alumno":"Laura Rodriguez",
+	"nota":8.10,
+	"ranking":7
+},
+{
+	"alumno":"Julian Largo",
+	"nota":8.00,
+	"ranking":6
+},
+{
+	"alumno":"Sofia Hernandez",
+	"nota":7.80,
+	"ranking":5
+},
+{
+	"alumno":"Isabel Diaz",
+	"nota":7.60,
+	"ranking":4
+},
+{
+	"alumno":"Sergio Varela",
+	"nota":7.50,
+	"ranking":3
+},
+{
+	"alumno":"Tatiana Ayala",
+	"nota":7.30,
+	"ranking":2
+},
+{
+	"alumno":"Pedro Infante",
+	"nota":7.00,
+	"ranking":1
+	}
+]
